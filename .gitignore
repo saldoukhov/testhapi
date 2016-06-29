@@ -1,0 +1,10 @@
+# Dependency directory
+node_modules
+
+# ignore typings folder
+typings
+
+.idea
+
+*.map
+*.js
